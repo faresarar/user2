@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577423224501",
+    "project_id": "",
+    "storage_bucket": "twins-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577423224501:android:8d4cd48f1d4560850558fc",
+        "android_client_info": {
+          "package_name": "com.example.user2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577423224501-vm3vriqm1slfag1ipc71i9ubadovrgc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user",
+            "certificate_hash": "eb6607abeabf72e51e1cb477fd8f67ec94b52dba"
+          }
+        },
+        {
+          "client_id": "577423224501-or68d304n187mi37d61va3nh3a7gpgpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxU7D-agwmxkAip_cJsnI0xls6TQbQOVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577423224501-or68d304n187mi37d61va3nh3a7gpgpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
